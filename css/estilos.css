@@ -1,0 +1,241 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: white;
+}
+.header{
+    height: 180px;
+    width: 1000px;
+    margin: auto 0;
+    display: flex;
+}
+.titulo{
+    height:  180px;
+    width:400px;
+}
+.logo{
+    text-align:right;
+    margin: auto 0;
+}
+.textotitulo{
+    margin-top: 20px;
+    text-align: 150px;
+    font-size: 300%;
+}
+.textodescripcion{
+    text-align: 80px;
+    margin: auto 0;
+    font-size: 110%;
+}
+.secundario{
+    text-align: right;
+font-size: 150%;
+}
+.iconos{
+    margin-top: 20px;
+    text-align: right;
+}
+.etiqueta{
+    margin-top: 85px;
+    font-size: 20px;
+    display: flex; 
+}
+p:hover{
+    color: #1717FF;
+    cursor: pointer;
+}
+.linea{
+    height: 50px;
+    width: 1000px;
+    display:flex;
+    margin: auto 0;
+    background-color: firebrick;
+    padding: 0%;
+    background: -webkit-linear-gradient(top, rgb(75, 23, 23),red)
+}
+.busca{
+    margin-top: 9px;
+    margin-left: 13px;
+    font-size: 150%;
+    color: white;
+    background-color: firebrick;
+    background: -webkit-linear-gradient(top, rgb(75, 23, 23),red)
+}
+.busca:hover{
+    color: #1717FF;
+    cursor: pointer;
+}
+.search{
+    margin-top: 14px;
+    margin-left: 200px;
+    text-align:left;
+    background-color: firebrick;
+    background: -webkit-linear-gradient(top, rgb(75, 23, 23),red)
+}
+.imagencentral{
+    margin-top: 10px;
+}
+.main{
+    height: 700px;
+    width: 1000px;
+    margin-top: 10px;
+    background-color: yellow;
+    display: flex;
+}
+.cuadro1{
+    height: 700px;
+    width: 700px;
+    display: flex;
+    flex-direction: column;
+}
+.titulouno{
+    height: 30px;
+    margin: 5px;
+    background-color: tomato;   
+}
+.title{
+    background:rgb(113, 168, 166);
+    background: -webkit-linear-gradient(top, rgb(126, 221, 238),rgb(43, 101, 128))
+}
+.textoprimero{
+    margin-top: 5px;
+    height: 200px;
+    width: 600px;
+    display: flex;
+}
+.descripcion{
+    font-size: 10px;
+}
+.botones{
+    height: 32px;
+    display: flex;
+}
+.botonuno{
+    margin-right: 100px;
+    margin-left: 150px;
+    height: 20px;
+    width: 200px;
+    text-align: center;
+    font-size: 60%;
+}
+.botonunno{
+    background-color: rgb(196, 189, 189);
+    border-radius: 20px / 10px; 
+}
+
+.botondos{
+    height: 20px;
+    width: 200px;
+    text-align: center;
+    font-size: 60%;
+}
+.botondoos{
+    background-color: rgb(196, 189, 189);
+    border-radius: 20px / 10px;
+}
+.titulodoos{
+    font-size: 140%;
+    background:rgb(113, 168, 166);
+}
+.cuadros{
+    display: flex;
+    margin-top: 30px;
+    margin-left: 27px;
+}
+.imguno{
+    margin-left:45px;
+}
+.letracuadro{
+    display: flex;
+    height: 50px;
+    margin-left: 25px;
+}
+.textoimagen{
+
+height: 50px;
+width: 100px;
+margin-top: 10px;
+margin-left: 45px;
+font-size: 100%;
+}
+.last{
+    font-size: 50%;
+    margin-top: 80px;
+}
+.cuadro2{
+    height: 700px;
+    width: 300px;
+}
+
+.Sociall{
+    margin-top: 5px;
+    height: 30px;
+    width: 280px;
+    margin-left: 15px;
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+.video{
+    margin-top: 10px;
+    margin-left: 15px;
+}
+.ultima12{
+    font-size: 120%;
+    text-align: center;
+    background-color: rgb(209, 199, 199);
+    width: 160px;
+    margin-left: 80px;
+
+}
+.navigatee{
+    margin-top: 5px;
+    height: 30px;
+    width: 280px;
+    margin-left: 15px;
+    text-align: center;
+    background:black;
+    background: -webkit-linear-gradient(top, rgb(165, 172, 173),rgb(0, 0, 0));
+    color: white;
+    font-size: 150%;
+}
+.listass{
+    margin-left: 50px;
+    margin-top: 30px;
+}
+.none{
+    margin-top: 20px;
+}
+.lineafinal{
+    height: 10px;
+    width: 1000px;
+    background-color: gray;
+}
+.footer{
+    height: 500px;
+    width: 1000px;
+    flex-direction: column;
+}
+.Enlacesfinales{
+    display: flex;
+    margin-left: 270px;
+    margin-top: 20px;
+}
+.miau{
+    display: flex;
+    text-align: center;
+    margin-left: 20px;
+    font-size: 100%;
+    text-decoration: underline;
+}
+.miau:hover{
+    color: #1717FF;
+    cursor: pointer;
+}
+.copy{
+    font-size: 80%;
+    text-align: center;
+
+}
+
+
